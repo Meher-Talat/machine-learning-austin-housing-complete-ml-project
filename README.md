@@ -37,7 +37,8 @@ Includes price, location details, size, condition, and categorical attributes
 
 Final processed dataset used for training multiple ML models
 
-🧠 Techniques Used
+-> Techniques Used
+
 📌 Preprocessing
 
 Handling missing values
